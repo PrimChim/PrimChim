@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PrimChim
-- 👀 I’m interested in Web Development and I am just a biginner now.
+- 👀 I have some knowledge of webdevelopment.
 - 🌱 I’m currently learning Java And Python.
-- 💞️ I’m looking to collaborate on web development.
+- 💞️ I am interested on working on new projects using HTML, CSS and JS.
 - 📫 How to reach me gpritam922@gmail.com or ig: _prim_Chim_
 
 <!---
