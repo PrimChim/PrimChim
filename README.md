@@ -2,6 +2,7 @@
 - 👀 I have some knowledge of webdevelopment.
 - 🌱 I’m currently learning Java And Python.
 - 💞️ Java, Javascript, Python, PHP, MySql
+- C-programming
 - 📫 How to reach me gpritam922@gmail.com or ig: _prim_Chim_
 
 <!---
