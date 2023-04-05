@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @PrimChim
-- 👀 I have good knowledge of webdevelopment.
-- 🌱 I amm proficient in Django Pyhton,
-- 💞️ Java, Javascript, Python, PHP, MySql
-- ✔ C-Programming
+- 👀 Looking for programming related jobs.
+- ✔ Programmer, webdeveloper, webdesigner, photoshop skills
+- ✔ Django Python, MySql, PHP, Node Js, React Js, Mongo DB
 - 📫 How to reach me gpritam922@gmail.com or ig: _prim_Chim_
 
 <!---
