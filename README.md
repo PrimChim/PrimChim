@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PrimChim
-- 👀 I have some knowledge of webdevelopment.
-- 🌱 I’m currently learning Java And Python.
+- 👀 I have good knowledge of webdevelopment.
+- 🌱 I amm proficient in Django Pyhton,
 - 💞️ Java, Javascript, Python, PHP, MySql
-- C-programming
+- ✔ C-Programming
 - 📫 How to reach me gpritam922@gmail.com or ig: _prim_Chim_
 
 <!---
