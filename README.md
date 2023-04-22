@@ -1,4 +1,5 @@
 github-contribution-grid-snake.svg
+![Snake animation](https://github.com/PrimChim/PrimChim/blob/output/github-contribution-grid-snake.svg)
 - 👋 Hi, I’m @PrimChim
 - 👀 Looking for programming related jobs.
 - ✔ Programmer, webdeveloper, webdesigner, photoshop skills
